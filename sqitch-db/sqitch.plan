@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=flipr
+%uri=https://github.com/sqitchers/sqitch-intro/
+
+appschema 2024-09-11T07:29:09Z sazzad <sazzad@sazzad-hp> # Add schema for all flipr objects.
+authors [appschema] 2024-09-11T08:40:33Z sazzad <sazzad@example.com> # Creates table to track our authors.
